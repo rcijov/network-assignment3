@@ -1,0 +1,259 @@
+Peer host 1: dada
+Peer host 2: dada
+Damage Rate: 15
+Router: Receive packet 0 from peer host 1
+Router: Send packet 0 received from peer host 1 to host 2
+Router: Receive packet 0 from peer host 2
+Router: Send packet 0 received from peer host 2 to host 1
+Router: Receive packet 1 from peer host 1
+Router: Send packet 1 received from peer host 1 to host 2
+Router: Receive packet 1 from peer host 2
+Router: Send packet 1 received from peer host 2 to host 1
+Router: Receive packet 2 from peer host 1
+Router: Send packet 2 received from peer host 1 to host 2
+Router: Receive packet 2 from peer host 2
+Router: Packet 2 received from peer host 2 has been dropped by router!
+Router: Receive packet 3 from peer host 2
+Router: Send packet 3 received from peer host 2 to host 1
+Router: Receive packet 3 from peer host 1
+Router: Send packet 3 received from peer host 1 to host 2
+Router: Receive packet 4 from peer host 2
+Router: Send packet 4 received from peer host 2 to host 1
+Router: Receive packet 4 from peer host 1
+Router: Send packet 4 received from peer host 1 to host 2
+Router: Receive packet 5 from peer host 2
+Router: Send packet 5 received from peer host 2 to host 1
+Router: Receive packet 5 from peer host 1
+Router: Send packet 5 received from peer host 1 to host 2
+Router: Receive packet 6 from peer host 2
+Router: Send packet 6 received from peer host 2 to host 1
+Router: Receive packet 6 from peer host 1
+Router: Packet 6 received from peer host 1 has been dropped by router!
+Router: Receive packet 7 from peer host 2
+Router: Send packet 7 received from peer host 2 to host 1
+Router: Receive packet 7 from peer host 1
+Router: Send packet 7 received from peer host 1 to host 2
+Router: Receive packet 8 from peer host 2
+Router: Send packet 8 received from peer host 2 to host 1
+Router: Receive packet 8 from peer host 1
+Router: Send packet 8 received from peer host 1 to host 2
+Router: Receive packet 9 from peer host 2
+Router: Send packet 9 received from peer host 2 to host 1
+Router: Receive packet 9 from peer host 1
+Router: Send packet 9 received from peer host 1 to host 2
+Router: Receive packet 10 from peer host 2
+Router: Send packet 10 received from peer host 2 to host 1
+Router: Receive packet 10 from peer host 1
+Router: Send packet 10 received from peer host 1 to host 2
+Router: Receive packet 11 from peer host 2
+Router: Send packet 11 received from peer host 2 to host 1
+Router: Receive packet 11 from peer host 1
+Router: Packet 11 received from peer host 1 has been dropped by router!
+Router: Receive packet 12 from peer host 2
+Router: Send packet 12 received from peer host 2 to host 1
+Router: Receive packet 12 from peer host 1
+Router: Packet 12 received from peer host 1 has been dropped by router!
+Router: Receive packet 13 from peer host 2
+Router: Send packet 13 received from peer host 2 to host 1
+Router: Receive packet 13 from peer host 1
+Router: Send packet 13 received from peer host 1 to host 2
+Router: Receive packet 14 from peer host 2
+Router: Send packet 14 received from peer host 2 to host 1
+Router: Receive packet 14 from peer host 1
+Router: Send packet 14 received from peer host 1 to host 2
+Router: Receive packet 15 from peer host 2
+Router: Send packet 15 received from peer host 2 to host 1
+Router: Receive packet 15 from peer host 1
+Router: Packet 15 received from peer host 1 has been dropped by router!
+Router: Receive packet 16 from peer host 2
+Router: Send packet 16 received from peer host 2 to host 1
+Router: Receive packet 16 from peer host 1
+Router: Send packet 16 received from peer host 1 to host 2
+Router: Receive packet 17 from peer host 2
+Router: Send packet 17 received from peer host 2 to host 1
+Router: Receive packet 17 from peer host 1
+Router: Send packet 17 received from peer host 1 to host 2
+Router: Receive packet 18 from peer host 2
+Router: Send packet 18 received from peer host 2 to host 1
+Router: Receive packet 18 from peer host 1
+Router: Send packet 18 received from peer host 1 to host 2
+Router: Receive packet 19 from peer host 2
+Router: Send packet 19 received from peer host 2 to host 1
+Router: Receive packet 19 from peer host 1
+Router: Send packet 19 received from peer host 1 to host 2
+Router: Receive packet 20 from peer host 2
+Router: Packet 20 received from peer host 2 has been dropped by router!
+Router: Receive packet 21 from peer host 2
+Router: Packet 21 received from peer host 2 has been dropped by router!
+Router: Receive packet 22 from peer host 2
+Router: Packet 22 received from peer host 2 has been dropped by router!
+Router: Receive packet 23 from peer host 2
+Router: Send packet 23 received from peer host 2 to host 1
+Router: Receive packet 20 from peer host 1
+Router: Send packet 20 received from peer host 1 to host 2
+Router: Receive packet 24 from peer host 2
+Router: Send packet 24 received from peer host 2 to host 1
+Router: Receive packet 21 from peer host 1
+Router: Send packet 21 received from peer host 1 to host 2
+Router: Receive packet 25 from peer host 2
+Router: Send packet 25 received from peer host 2 to host 1
+Router: Receive packet 22 from peer host 1
+Router: Send packet 22 received from peer host 1 to host 2
+Router: Receive packet 26 from peer host 2
+Router: Send packet 26 received from peer host 2 to host 1
+Router: Receive packet 23 from peer host 1
+Router: Send packet 23 received from peer host 1 to host 2
+Router: Receive packet 27 from peer host 2
+Router: Packet 27 received from peer host 2 has been dropped by router!
+Router: Receive packet 28 from peer host 2
+Router: Send packet 28 received from peer host 2 to host 1
+Router: Receive packet 24 from peer host 1
+Router: Send packet 24 received from peer host 1 to host 2
+Router: Receive packet 29 from peer host 2
+Router: Send packet 29 received from peer host 2 to host 1
+Router: Receive packet 25 from peer host 1
+Router: Send packet 25 received from peer host 1 to host 2
+Router: Receive packet 30 from peer host 2
+Router: Send packet 30 received from peer host 2 to host 1
+Router: Receive packet 26 from peer host 1
+Router: Send packet 26 received from peer host 1 to host 2
+Router: Receive packet 31 from peer host 2
+Router: Send packet 31 received from peer host 2 to host 1
+Router: Receive packet 27 from peer host 1
+Router: Send packet 27 received from peer host 1 to host 2
+Router: Receive packet 32 from peer host 2
+Router: Send packet 32 received from peer host 2 to host 1
+Router: Receive packet 28 from peer host 1
+Router: Send packet 28 received from peer host 1 to host 2
+Router: Receive packet 33 from peer host 2
+Router: Send packet 33 received from peer host 2 to host 1
+Router: Receive packet 29 from peer host 1
+Router: Send packet 29 received from peer host 1 to host 2
+Router: Receive packet 34 from peer host 2
+Router: Send packet 34 received from peer host 2 to host 1
+Router: Receive packet 30 from peer host 1
+Router: Packet 30 received from peer host 1 has been dropped by router!
+Router: Receive packet 35 from peer host 2
+Router: Send packet 35 received from peer host 2 to host 1
+Router: Receive packet 31 from peer host 1
+Router: Send packet 31 received from peer host 1 to host 2
+Router: Receive packet 36 from peer host 2
+Router: Packet 36 received from peer host 2 has been dropped by router!
+Router: Receive packet 37 from peer host 2
+Router: Packet 37 received from peer host 2 has been dropped by router!
+Router: Receive packet 38 from peer host 2
+Router: Send packet 38 received from peer host 2 to host 1
+Router: Receive packet 32 from peer host 1
+Router: Packet 32 received from peer host 1 has been dropped by router!
+Router: Receive packet 39 from peer host 2
+Router: Send packet 39 received from peer host 2 to host 1
+Router: Receive packet 33 from peer host 1
+Router: Send packet 33 received from peer host 1 to host 2
+Router: Receive packet 40 from peer host 2
+Router: Packet 40 received from peer host 2 has been dropped by router!
+Router: Receive packet 41 from peer host 2
+Router: Send packet 41 received from peer host 2 to host 1
+Router: Receive packet 34 from peer host 1
+Router: Send packet 34 received from peer host 1 to host 2
+Router: Receive packet 42 from peer host 2
+Router: Send packet 42 received from peer host 2 to host 1
+Router: Receive packet 35 from peer host 1
+Router: Send packet 35 received from peer host 1 to host 2
+Router: Receive packet 43 from peer host 2
+Router: Send packet 43 received from peer host 2 to host 1
+Router: Receive packet 36 from peer host 1
+Router: Send packet 36 received from peer host 1 to host 2
+Router: Receive packet 44 from peer host 2
+Router: Send packet 44 received from peer host 2 to host 1
+Router: Receive packet 37 from peer host 1
+Router: Send packet 37 received from peer host 1 to host 2
+Router: Receive packet 45 from peer host 2
+Router: Send packet 45 received from peer host 2 to host 1
+Router: Receive packet 38 from peer host 1
+Router: Send packet 38 received from peer host 1 to host 2
+Router: Receive packet 46 from peer host 2
+Router: Packet 46 received from peer host 2 has been dropped by router!
+Router: Receive packet 47 from peer host 2
+Router: Send packet 47 received from peer host 2 to host 1
+Router: Receive packet 39 from peer host 1
+Router: Packet 39 received from peer host 1 has been dropped by router!
+Router: Receive packet 48 from peer host 2
+Router: Send packet 48 received from peer host 2 to host 1
+Router: Receive packet 40 from peer host 1
+Router: Send packet 40 received from peer host 1 to host 2
+Router: Receive packet 49 from peer host 2
+Router: Send packet 49 received from peer host 2 to host 1
+Router: Receive packet 41 from peer host 1
+Router: Send packet 41 received from peer host 1 to host 2
+Router: Receive packet 50 from peer host 2
+Router: Send packet 50 received from peer host 2 to host 1
+Router: Receive packet 42 from peer host 1
+Router: Send packet 42 received from peer host 1 to host 2
+Router: Receive packet 51 from peer host 2
+Router: Send packet 51 received from peer host 2 to host 1
+Router: Receive packet 43 from peer host 1
+Router: Send packet 43 received from peer host 1 to host 2
+Router: Receive packet 52 from peer host 2
+Router: Packet 52 received from peer host 2 has been dropped by router!
+Router: Receive packet 53 from peer host 2
+Router: Send packet 53 received from peer host 2 to host 1
+Router: Receive packet 44 from peer host 1
+Router: Send packet 44 received from peer host 1 to host 2
+Router: Receive packet 54 from peer host 2
+Router: Packet 54 received from peer host 2 has been dropped by router!
+Router: Receive packet 55 from peer host 2
+Router: Send packet 55 received from peer host 2 to host 1
+Router: Receive packet 45 from peer host 1
+Router: Send packet 45 received from peer host 1 to host 2
+Router: Receive packet 56 from peer host 2
+Router: Send packet 56 received from peer host 2 to host 1
+Router: Receive packet 46 from peer host 1
+Router: Send packet 46 received from peer host 1 to host 2
+Router: Receive packet 57 from peer host 2
+Router: Packet 57 received from peer host 2 has been dropped by router!
+Router: Receive packet 58 from peer host 2
+Router: Send packet 58 received from peer host 2 to host 1
+Router: Receive packet 47 from peer host 1
+Router: Send packet 47 received from peer host 1 to host 2
+Router: Receive packet 59 from peer host 2
+Router: Packet 59 received from peer host 2 has been dropped by router!
+Router: Receive packet 60 from peer host 2
+Router: Send packet 60 received from peer host 2 to host 1
+Router: Receive packet 48 from peer host 1
+Router: Send packet 48 received from peer host 1 to host 2
+Router: Receive packet 61 from peer host 2
+Router: Send packet 61 received from peer host 2 to host 1
+Router: Receive packet 49 from peer host 1
+Router: Send packet 49 received from peer host 1 to host 2
+Router: Receive packet 62 from peer host 2
+Router: Send packet 62 received from peer host 2 to host 1
+Router: Receive packet 50 from peer host 1
+Router: Send packet 50 received from peer host 1 to host 2
+Router: Receive packet 63 from peer host 2
+Router: Send packet 63 received from peer host 2 to host 1
+Router: Receive packet 51 from peer host 1
+Router: Send packet 51 received from peer host 1 to host 2
+Router: Receive packet 64 from peer host 2
+Router: Send packet 64 received from peer host 2 to host 1
+Router: Receive packet 52 from peer host 1
+Router: Send packet 52 received from peer host 1 to host 2
+Router: Receive packet 65 from peer host 2
+Router: Send packet 65 received from peer host 2 to host 1
+Router: Receive packet 53 from peer host 1
+Router: Packet 53 received from peer host 1 has been dropped by router!
+Router: Receive packet 66 from peer host 2
+Router: Send packet 66 received from peer host 2 to host 1
+Router: Receive packet 54 from peer host 1
+Router: Send packet 54 received from peer host 1 to host 2
+Router: Receive packet 67 from peer host 2
+Router: Packet 67 received from peer host 2 has been dropped by router!
+Router: Receive packet 68 from peer host 2
+Router: Send packet 68 received from peer host 2 to host 1
+Router: Receive packet 55 from peer host 1
+Router: Send packet 55 received from peer host 1 to host 2
+Router: Receive packet 69 from peer host 2
+Router: Packet 69 received from peer host 2 has been dropped by router!
+Router: Receive packet 70 from peer host 2
+Router: Send packet 70 received from peer host 2 to host 1
+Router: Receive packet 56 from peer host 1
+Router: Send packet 56 received from peer host 1 to host 2

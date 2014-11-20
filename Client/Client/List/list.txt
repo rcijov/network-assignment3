@@ -1,0 +1,14 @@
+.
+..
+Debug
+download.jpg
+Files
+Headers
+List
+pa2.pdf
+server.cpp
+server.h
+Server.vcxproj
+Server.vcxproj.filters
+server_log.txt
+test.txt
