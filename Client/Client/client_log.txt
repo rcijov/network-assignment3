@@ -1,27 +1,9 @@
-Client: sent handshake C96
-Client: received handshake C96 S4
-Client: sent handshake C96 S4
+Client: sent handshake C44
+Client: received handshake C44 S178
+Client: sent handshake C44 S178
 Receiver started on host dada
 Receiver: received frame 0
 Receiver: sent ACK 0
-Receiver: received frame 1
-Receiver: sent ACK 1
-Receiver: received frame 0
-Receiver: sent ACK 0
-Receiver: received frame 1
-Receiver: sent ACK 1
-Receiver: received frame 0
-Receiver: sent ACK 0
-Receiver: received frame 0
-Receiver: sent ACK 0 again
-Receiver: received frame 1
-Receiver: sent ACK 1
-Receiver: received frame 0
-Receiver: sent ACK 0
-Receiver: received frame 1
-Receiver: sent ACK 1
-Receiver: received frame 0
-Receiver: sent ACK 0
 Receiver: received frame 0
 Receiver: sent ACK 0 again
 Receiver: received frame 0
@@ -32,22 +14,6 @@ Receiver: received frame 0
 Receiver: sent ACK 0
 Receiver: received frame 0
 Receiver: sent ACK 0 again
-Receiver: received frame 1
-Receiver: sent ACK 1
-Receiver: received frame 0
-Receiver: sent ACK 0
-Receiver: received frame 1
-Receiver: sent ACK 1
-Receiver: received frame 0
-Receiver: sent ACK 0
-Receiver: received frame 1
-Receiver: sent ACK 1
-Receiver: received frame 0
-Receiver: sent ACK 0
-Receiver: received frame 1
-Receiver: sent ACK 1
-Receiver: received frame 0
-Receiver: sent ACK 0
 Receiver: received frame 1
 Receiver: sent ACK 1
 Receiver: received frame 0
@@ -66,6 +32,16 @@ Receiver: received frame 1
 Receiver: sent ACK 1
 Receiver: received frame 1
 Receiver: sent ACK 1 again
+Receiver: received frame 1
+Receiver: sent ACK 1 again
+Receiver: received frame 0
+Receiver: sent ACK 0
+Receiver: received frame 1
+Receiver: sent ACK 1
+Receiver: received frame 0
+Receiver: sent ACK 0
+Receiver: received frame 1
+Receiver: sent ACK 1
 Receiver: received frame 0
 Receiver: sent ACK 0
 Receiver: received frame 1
@@ -96,26 +72,56 @@ Receiver: received frame 0
 Receiver: sent ACK 0
 Receiver: received frame 1
 Receiver: sent ACK 1
+Receiver: received frame 1
+Receiver: sent ACK 1 again
 Receiver: received frame 0
 Receiver: sent ACK 0
 Receiver: received frame 1
 Receiver: sent ACK 1
 Receiver: received frame 0
 Receiver: sent ACK 0
+Receiver: received frame 1
+Receiver: sent ACK 1
+Receiver: received frame 0
+Receiver: sent ACK 0
+Receiver: received frame 1
+Receiver: sent ACK 1
+Receiver: received frame 0
+Receiver: sent ACK 0
+Receiver: received frame 1
+Receiver: sent ACK 1
+Receiver: received frame 0
+Receiver: sent ACK 0
+Receiver: received frame 1
+Receiver: sent ACK 1
+Receiver: received frame 1
+Receiver: sent ACK 1 again
+Receiver: received frame 0
+Receiver: sent ACK 0
+Receiver: received frame 0
+Receiver: sent ACK 0 again
 Receiver: received frame 1
 Receiver: sent ACK 1
 Receiver: received frame 0
 Receiver: sent ACK 0
 Receiver: received frame 0
 Receiver: sent ACK 0 again
+Receiver: received frame 1
+Receiver: sent ACK 1
+Receiver: received frame 0
+Receiver: sent ACK 0
+Receiver: received frame 1
+Receiver: sent ACK 1
+Receiver: received frame 0
+Receiver: sent ACK 0
 Receiver: received frame 1
 Receiver: sent ACK 1
 Receiver: received frame 0
 Receiver: sent ACK 0
 Receiver: file transfer complete
-Receiver: number of packets sent: 55
+Receiver: number of packets sent: 58
 Receiver: number of packets sent (needed): 47
-Receiver: number of bytes received: 14960
+Receiver: number of bytes received: 15776
 Receiver: number of bytes written: 11930
 
 Closing client socket.

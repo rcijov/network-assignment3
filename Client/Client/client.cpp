@@ -226,7 +226,7 @@ bool getFile(int sock, char * filename, char * receiving_hostname, int client_nu
 							cout << frame.buffer[i];
 						}
 					}
-					cout << endl;
+					//cout << endl;
 
 					sequenceNumber = (sequenceNumber == 0 ? 1 : 0);
 

@@ -1,22 +1,10 @@
-Server: received handshake C96
+Server: received handshake C44
 Server: user "d" on host "dada" requests GET file: "download.jpg"
-Server: sent handshake C96 S4
-Server: received handshake C96 S4
+Server: sent handshake C44 S178
+Server: received handshake C44 S178
 Sender started on host dada
 Sender: sent frame 0
-Sender: received ACK 0
-Sender: sent frame 1
-Sender: sent frame 1
-Sender: received ACK 1
 Sender: sent frame 0
-Sender: received ACK 0
-Sender: sent frame 1
-Sender: received ACK 1
-Sender: sent frame 0
-Sender: sent frame 0
-Sender: received ACK 0
-Sender: sent frame 1
-Sender: received ACK 1
 Sender: sent frame 0
 Sender: received ACK 0
 Sender: sent frame 1
@@ -28,7 +16,6 @@ Sender: received ACK 0
 Sender: sent frame 1
 Sender: received ACK 1
 Sender: sent frame 0
-Sender: sent frame 0
 Sender: received ACK 0
 Sender: sent frame 1
 Sender: received ACK 1
@@ -38,7 +25,11 @@ Sender: sent frame 1
 Sender: received ACK 1
 Sender: sent frame 0
 Sender: sent frame 0
-Sender: sent frame 0
+Sender: received ACK 0
+Sender: sent frame 1
+Sender: sent frame 1
+Sender: sent frame 1
+Sender: received ACK 1
 Sender: sent frame 0
 Sender: received ACK 0
 Sender: sent frame 1
@@ -59,16 +50,8 @@ Sender: received ACK 1
 Sender: sent frame 0
 Sender: received ACK 0
 Sender: sent frame 1
-Sender: received ACK 1
-Sender: sent frame 0
-Sender: sent frame 0
-Sender: received ACK 0
-Sender: sent frame 1
-Sender: sent frame 1
-Sender: sent frame 1
 Sender: sent frame 1
 Sender: received ACK 1
-Sender: sent frame 0
 Sender: sent frame 0
 Sender: received ACK 0
 Sender: sent frame 1
@@ -81,14 +64,10 @@ Sender: sent frame 0
 Sender: received ACK 0
 Sender: sent frame 1
 Sender: sent frame 1
-Sender: sent frame 1
 Sender: received ACK 1
 Sender: sent frame 0
 Sender: received ACK 0
 Sender: sent frame 1
-Sender: received ACK 1
-Sender: sent frame 0
-Sender: received ACK 0
 Sender: sent frame 1
 Sender: sent frame 1
 Sender: received ACK 1
@@ -98,9 +77,7 @@ Sender: received ACK 0
 Sender: sent frame 1
 Sender: received ACK 1
 Sender: sent frame 0
-Sender: sent frame 0
 Sender: received ACK 0
-Sender: sent frame 1
 Sender: sent frame 1
 Sender: received ACK 1
 Sender: sent frame 0
@@ -116,13 +93,42 @@ Sender: sent frame 0
 Sender: received ACK 0
 Sender: sent frame 1
 Sender: sent frame 1
+Sender: sent frame 1
 Sender: received ACK 1
 Sender: sent frame 0
 Sender: sent frame 0
 Sender: received ACK 0
+Sender: sent frame 1
+Sender: sent frame 1
+Sender: received ACK 1
+Sender: sent frame 0
+Sender: sent frame 0
+Sender: received ACK 0
+Sender: sent frame 1
+Sender: received ACK 1
+Sender: sent frame 0
+Sender: received ACK 0
+Sender: sent frame 1
+Sender: received ACK 1
+Sender: sent frame 0
+Sender: received ACK 0
+Sender: sent frame 1
+Sender: received ACK 1
+Sender: sent frame 0
+Sender: sent frame 0
+Sender: sent frame 0
+Sender: sent frame 0
+Sender: sent frame 0
+Sender: sent frame 0
+Sender: sent frame 0
+Sender: sent frame 0
+Sender: sent frame 0
+Sender: sent frame 0
+Sender: sent frame 0
+Sender: did not receive ACK 0 after 10 tries. Transfer finished.
 Sender: file transfer complete
-Sender: number of packets sent: 70
+Sender: number of packets sent: 76
 Sender: number of packets sent (needed): 47
-Sender: number of bytes sent: 19040
+Sender: number of bytes sent: 20672
 Sender: number of bytes read: 11930
 
